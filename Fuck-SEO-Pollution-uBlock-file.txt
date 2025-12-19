@@ -1,0 +1,3 @@
+! douyin / 抖音
+cn.bing.com##li:has(a[href*="douyin"])
+cn.bing.com##li:has(a[href*="抖音"])
